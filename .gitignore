@@ -1,0 +1,16 @@
+﻿/target/
+*.log
+*.class
+*.war
+*.ear
+*.iml
+/.idea/
+.vscode/
+.DS_Store
+# Maven
+.settings/
+/release.properties
+/assembly/
+# OS files
+Thumbs.db
+desktop.ini
